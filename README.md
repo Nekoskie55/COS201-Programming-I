@@ -3,7 +3,7 @@
 ## Student Information
 - Name: [Agbaire Oghenerume Ewemade]
 - Matriculation Number: [25/18047]
-- Programme: [CSC]
+- Programme: [Computer science(CSC)]
 - Course: COS 201
 
 ---
